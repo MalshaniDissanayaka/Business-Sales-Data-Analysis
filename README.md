@@ -18,14 +18,27 @@ Analyze sales data to identify key trends, profitable products, and customer seg
 5. Where are profit opportunities?
 
 ## Analysis & Insights
-- Top 10 products: [plot screenshot/GIF]
-- Revenue by region: [plot screenshot/GIF]
-- Peak sales months: [plot screenshot/GIF]
-- Profit opportunities: [plot screenshot/GIF]
+
+### Top Products by Sales
+![Top Products](images/top_products.png)
+> The top-selling products are mainly from the Furniture and Technology categories, contributing significantly to overall revenue. Focus marketing on underperforming categories for growth.
+
+### Revenue by Region
+![Sales by Region](images/sales_by_region.png)
+> The West and East regions generate the highest revenue. The Central region shows lower sales → may need targeted campaigns.
+
+### Peak Sales Months
+> [Include another plot if you want, e.g., monthly sales trend]
+
+### Customer Segments
+> [Include plot or table: e.g., "Consumer segment makes the most frequent purchases."]
+
+### Profit Opportunities
+> Compare profit margins across products and regions to identify high-profit, low-sales areas for promotion.
 
 ## Recommendations
 - Focus marketing on low-performing regions
-- Upsell high-profit products in high-demand segments
+- Upsell high-profit products in high-demand regions
 - Target top customer segments with promotions
 
 ## Limitations
